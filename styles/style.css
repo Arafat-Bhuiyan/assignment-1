@@ -74,3 +74,39 @@
     color: #444343;
     text-decoration: none;
 }
+/* plan styles */
+.plan{
+    text-align: center;
+    margin: 900px 200px 500px;
+}
+.plan-title{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.plan-learn{
+    display: flex;
+    gap: 100px;
+    width: 100%;
+    text-align: center;
+    left: 230px;
+    top: 1889px;
+    margin-left: 0 230px;
+    align-items: center;
+}
+.plan-learn h3{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+
+}
+.plan-learn p{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    
+}
