@@ -187,3 +187,11 @@
     color: #ffffff;
     margin-bottom: 24px;
 }
+.footer .cp-text{
+    text-align: center;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
